@@ -64,7 +64,7 @@ footer div a{
     column-gap: 50px;
     padding: 20px;
     grid-template-columns: 20dvw  50dvw;
-    
+    place-content: center;
 }
 
 
@@ -80,7 +80,7 @@ footer div a{
     column-gap: 50px;
     padding: 20px;
     grid-template-columns: 20dvw  50dvw;
-
+    place-content: center;
 }
 
 /* Images 
