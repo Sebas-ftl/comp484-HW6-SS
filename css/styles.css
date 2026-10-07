@@ -19,6 +19,7 @@ h1 {
     font-weight: 60px;
     font-size: 58px;
     margin-bottom: 5px;
+    margin-top: 5px;
 }
 h2 {
     font-family: "Kode Mono";
@@ -43,6 +44,7 @@ header, footer{
 header .flex-container {
     display: flex;
     align-items: center;
+    align-content: center;
     column-gap: 40px;
 }
 header p {
@@ -86,8 +88,6 @@ footer div a{
 /* Images 
 ------------------------------------*/
 #headimg {
-    /* max-height: ; */
-    min-width: 20dvw;
-    max-width: 25dvw;
+    width: 300px;
     border-radius: 75px;
 }
